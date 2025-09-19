@@ -30,9 +30,24 @@
 
 ---
 
+### 📌 Current Project: **Accounts Gen**
+<p align="center">
+  <a href="https://discord.gg/w9NSvYYsRj">
+    <img src="https://img.shields.io/badge/Join%20Accounts%20Gen-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/focus-Discord%20Community-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/type-server-ff69b4?style=for-the-badge"/>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://discord.gg/YOURSERVER"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://dsc.gg/accountsgen"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://YOURWEBSITE"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
